@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ox Card</string>
+    <string name="ox_collective">Ox Collective</string>
+    <string name="description">Ox is a nimble design collective based in Berlin focused on product, branding and interface design.</string>
+    <string name="address_1">Oranienstrasse 6</string>
+    <string name="address_2">10997 Kreuzberg</string>
+    <string name="address_3">Berlin, Germany</string>
+    <string name="oxcollective.com">oxcollective.com</string>
+    <string name="contact_us">contact us</string>
+</resources>
